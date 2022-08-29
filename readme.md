@@ -1,2 +1,2 @@
-This is a tutorial to teach a lot of useless things
+This is a tutorial to teach how to make sense of git
 
